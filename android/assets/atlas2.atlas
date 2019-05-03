@@ -1,0 +1,502 @@
+
+atlas2.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+Airi
+  rotate: false
+  xy: 474, 944
+  size: 282, 198
+  orig: 282, 198
+  offset: 0, 0
+  index: -1
+Alstreim
+  rotate: false
+  xy: 1249, 3
+  size: 248, 215
+  orig: 248, 215
+  offset: 0, 0
+  index: -1
+Bicho Arquero
+  rotate: false
+  xy: 1847, 607
+  size: 194, 254
+  orig: 194, 254
+  offset: 0, 0
+  index: -1
+Calabaza Funesta
+  rotate: false
+  xy: 904, 18
+  size: 188, 116
+  orig: 188, 116
+  offset: 0, 0
+  index: -1
+Cyber Ogro
+  rotate: false
+  xy: 2, 197
+  size: 436, 398
+  orig: 436, 398
+  offset: 0, 0
+  index: -1
+Dama Volcanica
+  rotate: false
+  xy: 1884, 1223
+  size: 157, 211
+  orig: 157, 211
+  offset: 0, 0
+  index: -1
+Draco Escarlata
+  rotate: false
+  xy: 2, 597
+  size: 447, 453
+  orig: 447, 453
+  offset: 0, 0
+  index: -1
+Draco Marino
+  rotate: false
+  xy: 2, 1052
+  size: 470, 503
+  orig: 470, 503
+  offset: 0, 0
+  index: -1
+Draco Oriental
+  rotate: false
+  xy: 474, 1144
+  size: 282, 411
+  orig: 282, 411
+  offset: 0, 0
+  index: -1
+Dragauros Flama
+  rotate: false
+  xy: 667, 1601
+  size: 494, 445
+  orig: 494, 445
+  offset: 0, 0
+  index: -1
+Drago Esqueleto
+  rotate: false
+  xy: 1163, 1613
+  size: 501, 433
+  orig: 501, 433
+  offset: 0, 0
+  index: -1
+Estrellas Marinas
+  rotate: false
+  xy: 1854, 45
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Filia
+  rotate: false
+  xy: 1854, 193
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+Gato Funesto
+  rotate: false
+  xy: 1527, 1479
+  size: 137, 132
+  orig: 137, 132
+  offset: 0, 0
+  index: -1
+Grifo
+  rotate: false
+  xy: 451, 606
+  size: 296, 336
+  orig: 296, 336
+  offset: 0, 0
+  index: -1
+Hombre Nevado
+  rotate: false
+  xy: 1516, 615
+  size: 329, 246
+  orig: 329, 246
+  offset: 0, 0
+  index: -1
+Innova
+  rotate: false
+  xy: 749, 416
+  size: 368, 290
+  orig: 368, 290
+  offset: 0, 0
+  index: -1
+Jupiter
+  rotate: false
+  xy: 1184, 735
+  size: 330, 284
+  orig: 330, 284
+  offset: 0, 0
+  index: -1
+Kawabun
+  rotate: false
+  xy: 1640, 18
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+Lamia
+  rotate: false
+  xy: 1538, 92
+  size: 314, 251
+  orig: 314, 251
+  offset: 0, 0
+  index: -1
+Lariatt
+  rotate: false
+  xy: 1249, 505
+  size: 265, 228
+  orig: 265, 228
+  offset: 0, 0
+  index: -1
+Leo Flama
+  rotate: false
+  xy: 758, 708
+  size: 369, 287
+  orig: 369, 287
+  offset: 0, 0
+  index: -1
+Leo Gelido
+  rotate: false
+  xy: 1249, 220
+  size: 287, 283
+  orig: 287, 283
+  offset: 0, 0
+  index: -1
+Leo Terrestre
+  rotate: false
+  xy: 1666, 1436
+  size: 371, 290
+  orig: 371, 290
+  offset: 0, 0
+  index: -1
+Lich
+  rotate: false
+  xy: 758, 1233
+  size: 425, 366
+  orig: 425, 366
+  offset: 0, 0
+  index: -1
+Limo
+  rotate: false
+  xy: 1499, 7
+  size: 139, 83
+  orig: 139, 83
+  offset: 0, 0
+  index: -1
+Limo Sacro
+  rotate: false
+  xy: 1884, 1113
+  size: 151, 108
+  orig: 151, 108
+  offset: 0, 0
+  index: -1
+Limo Terrestre
+  rotate: false
+  xy: 1094, 42
+  size: 140, 92
+  orig: 140, 92
+  offset: 0, 0
+  index: -1
+Mabon
+  rotate: false
+  xy: 1846, 375
+  size: 178, 230
+  orig: 178, 230
+  offset: 0, 0
+  index: -1
+Novus
+  rotate: false
+  xy: 1666, 1728
+  size: 379, 318
+  orig: 379, 318
+  offset: 0, 0
+  index: -1
+Quimera
+  rotate: false
+  xy: 1548, 863
+  size: 358, 247
+  orig: 358, 247
+  offset: 0, 0
+  index: -1
+Reaper
+  rotate: false
+  xy: 699, 4
+  size: 203, 156
+  orig: 203, 156
+  offset: 0, 0
+  index: -1
+Sable Mimico
+  rotate: false
+  xy: 440, 292
+  size: 280, 303
+  orig: 280, 303
+  offset: 0, 0
+  index: -1
+T-Rex Carmesi
+  rotate: false
+  xy: 1548, 1112
+  size: 334, 322
+  orig: 334, 322
+  offset: 0, 0
+  index: -1
+T-Rex Colosal
+  rotate: false
+  xy: 1185, 1287
+  size: 340, 324
+  orig: 340, 324
+  offset: 0, 0
+  index: -1
+Tiburon Marino
+  rotate: false
+  xy: 1043, 136
+  size: 204, 278
+  orig: 204, 278
+  offset: 0, 0
+  index: -1
+Titan Alfadriel
+  rotate: false
+  xy: 758, 997
+  size: 424, 234
+  orig: 424, 234
+  offset: 0, 0
+  index: -1
+Titan Aquos
+  rotate: false
+  xy: 1185, 1021
+  size: 361, 264
+  orig: 361, 264
+  offset: 0, 0
+  index: -1
+Titan Ignis
+  rotate: false
+  xy: 722, 162
+  size: 319, 252
+  orig: 319, 252
+  offset: 0, 0
+  index: -1
+Titan Ilnoct
+  rotate: false
+  xy: 1538, 345
+  size: 306, 268
+  orig: 306, 268
+  offset: 0, 0
+  index: -1
+Tortuga Marina
+  rotate: false
+  xy: 440, 178
+  size: 237, 112
+  orig: 237, 112
+  offset: 0, 0
+  index: -1
+Tortuga Terrestre
+  rotate: false
+  xy: 431, 2
+  size: 266, 158
+  orig: 266, 158
+  offset: 0, 0
+  index: -1
+Yeti Gelido
+  rotate: false
+  xy: 2, 11
+  size: 427, 184
+  orig: 427, 184
+  offset: 0, 0
+  index: -1
+Zalaras
+  rotate: false
+  xy: 2, 1557
+  size: 663, 489
+  orig: 663, 489
+  offset: 0, 0
+  index: -1
+
+atlas22.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+Abismos
+  rotate: false
+  xy: 2, 2
+  size: 244, 200
+  orig: 244, 200
+  offset: 0, 0
+  index: -1
+Beatrix
+  rotate: false
+  xy: 1060, 542
+  size: 228, 222
+  orig: 228, 222
+  offset: 0, 0
+  index: -1
+Bruja Funesta
+  rotate: false
+  xy: 296, 485
+  size: 232, 244
+  orig: 232, 244
+  offset: 0, 0
+  index: -1
+Caballero Volcanico
+  rotate: false
+  xy: 1290, 504
+  size: 213, 260
+  orig: 213, 260
+  offset: 0, 0
+  index: -1
+Cactus Toxico
+  rotate: false
+  xy: 952, 391
+  size: 186, 149
+  orig: 186, 149
+  offset: 0, 0
+  index: -1
+Cyber Blader
+  rotate: false
+  xy: 575, 596
+  size: 247, 182
+  orig: 247, 182
+  offset: 0, 0
+  index: -1
+Cyber Pegaso
+  rotate: false
+  xy: 2, 749
+  size: 306, 258
+  orig: 306, 258
+  offset: 0, 0
+  index: -1
+Flora
+  rotate: false
+  xy: 2, 482
+  size: 292, 265
+  orig: 292, 265
+  offset: 0, 0
+  index: -1
+Limo Acuo
+  rotate: false
+  xy: 296, 387
+  size: 172, 96
+  orig: 172, 96
+  offset: 0, 0
+  index: -1
+Limo Flama
+  rotate: false
+  xy: 274, 247
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+Limo Gelido
+  rotate: false
+  xy: 1721, 471
+  size: 199, 89
+  orig: 199, 89
+  offset: 0, 0
+  index: -1
+Limo Oscuro
+  rotate: false
+  xy: 1893, 861
+  size: 144, 146
+  orig: 144, 146
+  offset: 0, 0
+  index: -1
+Limo Trueno
+  rotate: false
+  xy: 274, 142
+  size: 164, 103
+  orig: 164, 103
+  offset: 0, 0
+  index: -1
+Limo Ventoso
+  rotate: false
+  xy: 952, 251
+  size: 197, 138
+  orig: 197, 138
+  offset: 0, 0
+  index: -1
+Magellan
+  rotate: false
+  xy: 575, 780
+  size: 289, 227
+  orig: 289, 227
+  offset: 0, 0
+  index: -1
+Mothy
+  rotate: false
+  xy: 748, 367
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+Pelicanus
+  rotate: false
+  xy: 1721, 562
+  size: 227, 201
+  orig: 227, 201
+  offset: 0, 0
+  index: -1
+Proyotype
+  rotate: false
+  xy: 866, 779
+  size: 272, 228
+  orig: 272, 228
+  offset: 0, 0
+  index: -1
+Sirena Marina
+  rotate: false
+  xy: 530, 398
+  size: 216, 196
+  orig: 216, 196
+  offset: 0, 0
+  index: -1
+Tellia
+  rotate: false
+  xy: 1140, 766
+  size: 262, 241
+  orig: 262, 241
+  offset: 0, 0
+  index: -1
+Titan Demeres
+  rotate: false
+  xy: 2, 204
+  size: 270, 276
+  orig: 270, 276
+  offset: 0, 0
+  index: -1
+Titan Dynamo
+  rotate: false
+  xy: 1505, 499
+  size: 214, 264
+  orig: 214, 264
+  offset: 0, 0
+  index: -1
+Titan Terran
+  rotate: false
+  xy: 1404, 767
+  size: 245, 240
+  orig: 245, 240
+  offset: 0, 0
+  index: -1
+Titan Ventoss
+  rotate: false
+  xy: 310, 731
+  size: 263, 276
+  orig: 263, 276
+  offset: 0, 0
+  index: -1
+Xinbal
+  rotate: false
+  xy: 824, 549
+  size: 234, 228
+  orig: 234, 228
+  offset: 0, 0
+  index: -1
+Yukia
+  rotate: false
+  xy: 1651, 765
+  size: 240, 242
+  orig: 240, 242
+  offset: 0, 0
+  index: -1

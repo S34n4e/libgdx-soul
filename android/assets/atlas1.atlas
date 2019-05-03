@@ -1,0 +1,265 @@
+
+atlas1.png
+size: 2048,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+animarrow
+  rotate: false
+  xy: 608, 50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animarrow2
+  rotate: false
+  xy: 812, 72
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animbg
+  rotate: false
+  xy: 710, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animcircle
+  rotate: false
+  xy: 914, 72
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animcross
+  rotate: false
+  xy: 908, 276
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animdiamond1
+  rotate: false
+  xy: 1675, 402
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animdiamond2
+  rotate: false
+  xy: 1777, 402
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animflower
+  rotate: false
+  xy: 1573, 402
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animice
+  rotate: false
+  xy: 1471, 402
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animlightning
+  rotate: false
+  xy: 710, 50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animlines
+  rotate: false
+  xy: 806, 276
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animquestion
+  rotate: false
+  xy: 1114, 374
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animring
+  rotate: false
+  xy: 608, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animshield
+  rotate: false
+  xy: 1010, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animstar1
+  rotate: false
+  xy: 914, 174
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animstar2
+  rotate: false
+  xy: 812, 174
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animstar3
+  rotate: false
+  xy: 1879, 402
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animsticky
+  rotate: false
+  xy: 1267, 402
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animwater
+  rotate: false
+  xy: 1369, 402
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+animwrong
+  rotate: false
+  xy: 1016, 202
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 2, 302
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+circleBattle
+  rotate: false
+  xy: 204, 302
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+circleEnhance
+  rotate: false
+  xy: 406, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+circleHelp
+  rotate: false
+  xy: 204, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+circleInfo
+  rotate: false
+  xy: 2, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+circleTeam
+  rotate: false
+  xy: 406, 302
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+gaugeamarillo
+  rotate: false
+  xy: 1114, 476
+  size: 151, 26
+  orig: 151, 26
+  offset: 0, 0
+  index: -1
+gaugeverde
+  rotate: false
+  xy: 806, 429
+  size: 220, 26
+  orig: 220, 26
+  offset: 0, 0
+  index: -1
+hubdiamond
+  rotate: false
+  xy: 1016, 151
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+hubdiamond2
+  rotate: false
+  xy: 1028, 406
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+hubhab
+  rotate: false
+  xy: 806, 378
+  size: 193, 49
+  orig: 193, 49
+  offset: 0, 0
+  index: -1
+hubhab2
+  rotate: false
+  xy: 608, 254
+  size: 193, 49
+  orig: 193, 49
+  offset: 0, 0
+  index: -1
+hubobjetivo
+  rotate: false
+  xy: 608, 305
+  size: 196, 197
+  orig: 196, 197
+  offset: 0, 0
+  index: -1
+hubvit
+  rotate: false
+  xy: 2, 2
+  size: 264, 49
+  orig: 264, 49
+  offset: 0, 0
+  index: -1
+popbox
+  rotate: false
+  xy: 2, 53
+  size: 306, 45
+  orig: 306, 45
+  offset: 0, 0
+  index: -1
+popbox2
+  rotate: false
+  xy: 806, 457
+  size: 306, 45
+  orig: 306, 45
+  offset: 0, 0
+  index: -1
+sombra
+  rotate: false
+  xy: 310, 67
+  size: 282, 31
+  orig: 282, 31
+  offset: 0, 0
+  index: -1

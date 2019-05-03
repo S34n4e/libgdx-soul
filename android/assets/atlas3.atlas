@@ -1,0 +1,20 @@
+
+atlas3.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 680, 360
+  orig: 680, 360
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 684, 2
+  size: 680, 360
+  orig: 680, 360
+  offset: 0, 0
+  index: -1
